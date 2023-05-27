@@ -1,0 +1,46 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image:url(https://wallpapers.com/images/hd/red-forest-trees-n8z3bf3dv0b2cj6w.jpg);
+}
+
+.profile img{
+    width:20%;
+    height: 30%;    
+    padding: 5% 40%;
+    border-radius: 50%;
+}
+.accbox{
+    border: 2px;
+    background-color: #ffffff10;
+    backdrop-filter: blur(15px);
+    border-color: rgb(67, 41, 211);
+    border-style: solid;
+    border-radius: 30px;
+    margin: 0% 35%;
+    padding: 30px;
+}
+.input-box input {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.input-box span{
+    font-weight: bold;
+}
+
+.In button{
+    width: 150px;
+    background-color: transparent;
+    border-radius: 10px;
+    margin:5% 35%;
+    font-weight: bold;
+}
+
+a{
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
